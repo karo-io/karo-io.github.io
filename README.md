@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Hi! I am Peter
 
-You can use the [editor on GitHub](https://github.com/karo-io/karo-io.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### karo.io - info about the creator of www.karopapier.de
+Since the dawn of the internet, I have been working on my personal project [www.karopapier](https://www.karopapier) (an online/browser implementation of the vector based [racetrack game](https://en.wikipedia.org/wiki/Racetrack_(game)).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The game features code from the past two decades, from an old php3 forum to realtime websocket push notifications and a Single Page App for playing - and it helped me to experiment with the hot stuff every year.
 
-```markdown
-Syntax highlighted code block
+Even though it has the look of the '90s (&lt;FRAMESET&gt; FTW!!!), there's more modern stuff under the hood than you might think...
+  
+### Find me!
+Since my twitter handle [@xosofox](https://twitter.com/xosofox) is impossible to pronounce, I will use this entry point for others to find me more easily.
 
-# Header 1
-## Header 2
-### Header 3
+### XOSOFOX?
+Why do I have this strange handle anyway?? Well, it's because **XOSOFOX** looks like this ![Image](https://www.karopapier.de/map/105.png?size=12&border=1&cps=0) when it is interpreted as playable map code on www.karopapier.de 
 
-- Bulleted
-- List
+### Can you do serious stuff?
+I'm working as a freelancer for several years now.
+Specialties:
+* Full Stack Dev (PHP / JS)
+* Symfony (from legacy 1.0 to the lastest version)
+* Realtime push notifications (Websocket, Server-Sent Events, Mobile WebPush)
+* Javascript Single Page Apps (deep Backbone/Marionette experience)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Hot Stuff
+* Messenger Monitor Bundle [messenger-monitor
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Cool Stuff
+* WebApp to convert any image into a dot-on.de custom DIY artwork made of sticky dots
+* Full JS Karopapier [https://2.karopapier.de/editor.html](Map Editor) - Paste XOSOFOX into it and you might start to understand...
+* Realtime Information about who's turn it is to play and who just made a move 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karo-io/karo-io.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
