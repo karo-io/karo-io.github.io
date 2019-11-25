@@ -29,7 +29,7 @@ Specialties:
 
 
 ## Cool Stuff
-* WebApp to convert any image into a dot-on.de custom DIY artwork made of sticky dots
-* Full JS Karopapier [https://2.karopapier.de/editor.html](Map Editor) - Paste XOSOFOX into it and you might start to understand...
-* Realtime Information about who's turn it is to play and who just made a move 
+* WebApp to convert any image into a dot-on.de custom DIY artwork made of sticky dots https://dot-on.de/dotsmaker
+* Full JS Karopapier [Map Editor](https://2.karopapier.de/editor.html) - Paste XOSOFOX into it and you might start to understand...
+* Realtime Information about who's turn it is to play and who just made a move https://www.karopapier.de/blocker
 
