@@ -22,10 +22,11 @@ Specialties:
 * Symfony (from legacy 1.0 to the lastest version)
 * Realtime push notifications (Websocket, Server-Sent Events, Mobile WebPush)
 * Javascript Single Page Apps (deep Backbone/Marionette experience)
+* ... [more](https://www.xosofox.de/references/)
 
 
 ## Hot Stuff
-* Messenger Monitor Bundle [messenger-monitor
+* Messenger Monitor Bundle [messenger-monitor](https://github.com/karo-io/messenger-monitor)
 
 
 ## Cool Stuff
