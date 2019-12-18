@@ -3,7 +3,7 @@
 
 
 ### karo.io - info about the creator of www.karopapier.de
-Since the dawn of the internet, I have been working on my personal project [www.karopapier.de](https://www.karopapier) (an online/browser implementation of the vector based [racetrack game](https://en.wikipedia.org/wiki/Racetrack_(game))).
+Since the dawn of the internet, I have been working on my personal project [www.karopapier.de](https://www.karopapier.de) (an online/browser implementation of the vector based [racetrack game](https://en.wikipedia.org/wiki/Racetrack_(game))).
 
 The game features code from the past two decades, from an old php3 forum to realtime websocket push notifications and a Single Page App for playing - and it helped me to experiment with the hot stuff every year.
 
